@@ -2,14 +2,15 @@
 
 Short program that trains a Neural Network to recognize handwritten numbers using MNIST dataset.
 
-here it is in action  
-`\> python numberNeuralNetwork.py`
+### Here it is in action  
+`\> python numberNeuralNetwork.py`  
+
 60000/60000 [==============================] - 11s 178us/sample - loss: 0.2580 - acc: 0.9243  
 10000/10000 [==============================] - 1s 81us/sample - loss: 0.1234 - acc: 0.9619  
 
 val loss            val accuracy  
 0.1233830561414361    0.9619  
-Predictions  
+\*\*Predictions \*\*  
 [7, 2, 1, 0]  
 [4, 1, 4, 9]  
 [6, 9, 0, 6]  
