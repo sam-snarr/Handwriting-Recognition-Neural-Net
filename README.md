@@ -3,7 +3,7 @@
 Short program that trains a Neural Network to recognize handwritten numbers using MNIST dataset.
 
 ### Here it is in action  
-`\> python numberNeuralNetwork.py`  
+`> python numberNeuralNetwork.py`  
 
 60000/60000 [==============================] - 11s 178us/sample - loss: 0.2580 - acc: 0.9243  
 10000/10000 [==============================] - 1s 81us/sample - loss: 0.1234 - acc: 0.9619  
